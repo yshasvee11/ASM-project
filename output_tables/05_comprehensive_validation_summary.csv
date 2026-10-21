@@ -1,0 +1,6 @@
+Validation Test,Model Output,Empirical / Benchmark,Verdict
+Weibull ICU LOS fit (KS Test),D = 0.0822,p = 3.31e-15,Weibull fits adequately
+Exponential LOS fit (KS Test baseline),D = 0.0845,p = 5.15e-16,Rejected (larger D)
+Theoretical Weibull mean vs. empirical,58.04 h,58.35 h,Error 0.5%
+Sim P_abandon vs. CMS benchmark,82.35%,2.33%,No
+Markov ICU mortality vs. empirical,11.12%,5.00%,Abs diff 6.12%

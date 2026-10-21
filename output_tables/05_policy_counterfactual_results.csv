@@ -1,0 +1,4 @@
+scenario,p_abandon_pct,mean_board_delay_h,ed_utilization,icu_utilization,improvement_vs_baseline
+Baseline (c2 = 12 ICU beds),82.349%,0.000,0.313,1.000,---
+Policy A: Virtual SDU Buffer (c2 = 16 beds),82.281%,0.000,0.321,0.850,P_abandon: -0.1%;  Boarding: -0.0%
+Policy B: ED Fast-Track (equivalent c2 = 14 beds),82.388%,0.000,0.314,0.974,P_abandon: --0.0%;  Boarding: -0.0%

@@ -1,0 +1,3 @@
+metric,cms_benchmark,simulation_c2_12,within_95pct_ci
+ED Abandonment Rate P_abandon (%),2.33%,82.35% +/- 0.53%,No
+ED Sojourn Time W_ED (minutes),202.5 min,392.2 +/- 5.4 min,No

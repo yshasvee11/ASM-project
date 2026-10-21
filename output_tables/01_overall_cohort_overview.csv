@@ -1,0 +1,2 @@
+total_icu_stays,unique_patients,unique_hospital_stays,ed_admitted_icu_stays,ed_admitted_percentage,icu_mortality_pct,hospital_mortality_pct,mean_icu_los_hours,median_icu_los_hours,std_icu_los_hours,mean_ed_boarding_minutes,median_ed_boarding_minutes
+2520,1841,2174,1304,51.746031746031754,5.0,8.412698412698413,58.06791666666666,35.333333333333336,82.95268324044112,267.683160415004,158.0
